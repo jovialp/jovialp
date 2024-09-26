@@ -18,12 +18,13 @@
   />
 </p>
 
-- 🔭 I’m currently working on [EPAM Systems](https://www.epam.com/) - 🌱 I’m
-currently learning **Web3, React-native, Docker** - 👨‍💻 All of my projects are
-available at [https://www.jovialp.com/](https://www.jovialp.com/) - 💬 Ask me
-about **ReactJS, NextJS, JavaScript, NodeJS, ExpressJS, MongoDB, PostgreSQL,
-Vercel, Netlify** - 📫 How to reach me **jvlthms@gmail.com** - 📄 Know about my
-experiences
+- 🔭 I’m currently working on [EPAM Systems](https://www.epam.com/)
+- 🌱 I’m currently learning **Web3, React-native, Docker** - 👨‍💻 All of my projects are
+available at [https://www.jovialp.com/](https://www.jovialp.com/)
+- 💬 Ask me about **ReactJS, NextJS, JavaScript, NodeJS, ExpressJS, MongoDB, PostgreSQL,
+Vercel, Netlify**
+- 📫 How to reach me **jvlthms@gmail.com**
+- - 📄 Know about my experiences
 [https://media.licdn.com/dms/document/C562DAQG54E5UwMbj1w/profile-treasury-document-pdf-analyzed/0/1678623756811?e=1680134400&v=beta&t=YjIHdwQ_wZ28KoOkPnUN51g7IpjNXmzoPbEHAcMScQo](https://media.licdn.com/dms/document/C562DAQG54E5UwMbj1w/profile-treasury-document-pdf-analyzed/0/1678623756811?e=1680134400&v=beta&t=YjIHdwQ_wZ28KoOkPnUN51g7IpjNXmzoPbEHAcMScQo)
 
 <h3 align="left">Connect with me:</h3>
