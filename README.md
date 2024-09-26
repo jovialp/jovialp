@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jovialp" alt="jovialp" /> </p>
 
-- 🔭 I’m currently working on [Vahak](https://vahak.in/)
+- 🔭 I’m currently working on [EPAM Systems](https://www.epam.com/)
 
 - 🌱 I’m currently learning **Web3, React-native, Docker**
 
 - 👨‍💻 All of my projects are available at [https://www.jovialp.com/](https://www.jovialp.com/)
 
-- 💬 Ask me about **ReactJS, NextJS,JavaScript, NodeJS, ExpressJS,MongoDB, PostgreSQL,Vercel, Netlify**
+- 💬 Ask me about **ReactJS, NextJS, JavaScript, NodeJS, ExpressJS, MongoDB, PostgreSQL, Vercel, Netlify**
 
 - 📫 How to reach me **jvlthms@gmail.com**
 
